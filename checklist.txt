@@ -1,0 +1,54 @@
+# CSC 212 Data Structures
+## Homework 7 Checklist
+
+Listed below are various aspects of the assignment.  When you turn in
+your work, please indicate the status of each item
+
+- YES: indicates that the item is fully complete
+- NO: indicates that the item is not attempted
+- PART: indicates that the item is attempted but not fully complete
+
+
+## Assignment Points:
+
+___yes__ 1 pt: Maze class implements DisplayableMaze interface
+
+___yes__ 2 pts: Maze class implements recursive `solve` method
+
+___yes__ 2 pts: `solve` method correctly determines if solution exists
+
+___yes__ 2 pts: recursive style is simple and direct
+
+___yes__ 3 pts: Reads maze from arbitrary files:
+
+      ___yes__ 2 pts: Just one of command line or standard input
+
+      ___yes__ 1 pt: Both reading modes
+
+
+## Kudos:
+
+__no___ (kudos) Also implement an iterative solution to the maze
+
+
+## General Items:
+
+___yes__ 4 pts: Program compiles without errors or warnings
+
+__yes___ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+
+___yes__ 2 pt: Complies with style guidelines (missing items 1 pt each):
+
+      ___yes__ Classes & class members all have Javadoc header comments
+
+      ___yes__ Clear and consistent indentation of bracketed sections
+
+      __yes___ Adheres to Java conventions on naming & capitalization
+
+      __yes___ Methods & variables all have clear and accurate names
+
+      ___yes__ Methods avoid confusing side effects
+
+__yes___ 1 pt: All required files included with submission (including completed checklist file)
+
+__yes___ 1 pt: readme.md contains reflection on the assignment
